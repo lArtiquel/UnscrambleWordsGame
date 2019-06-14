@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<Installer>
-    <Name>UnscrambleWordsGame</Name>
-    <Version>1.0.0</Version>
-    <Title>Unscramble Words Game By AT Installer</Title>
-    <Publisher>pupsiquell</Publisher>
-    <StartMenuDir>UnscrambleWords</StartMenuDir>
-    <TargetDir>@HomeDir@/UnscrambleWords</TargetDir>
-</Installer>

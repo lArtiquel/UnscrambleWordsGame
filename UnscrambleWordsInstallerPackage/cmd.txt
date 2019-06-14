@@ -1,2 +1,0 @@
-To create installer enter:
-C:\Qt\QtIFW-3.1.0\bin>binarycreator.exe -c C:\Qt\QtIFW-3.1.0\examples\UnscrambleWords\config\config.xml -p C:\Qt\QtIFW-3.1.0\examples\UnscrambleWords\packages -t installerbase.exe "UnscrambleWordsGameInstaller.exe" 
