@@ -12,7 +12,7 @@ To ease the game, i've designed it only for the Russian user segment. If you wan
 # Contents
 UnscrambleWordsGame --> main project folder, includes source codes.
 UnscrambleWordsGame-Desktop_MSVC2017_64bit-Release --> release project folder, includes all needed .dll and .exe files.
-
+UnscrambleWordsInstallerPackage --> installer folder, includes Qt installer and it's source scripts.
 
 # How to play
 Game is so easy to play:
