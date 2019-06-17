@@ -2,8 +2,8 @@
 My replica of "Слова из слов" game. I really do not know how this game is called in English, so let it be "Unscramble Words"
 
 # Intro
-This is my last project on OOP on C++ of the 2 sem. I've received 10 on it.
-So, thats a game, where you need to quess all the words made up by a computer from tre current entered set of letters or words.
+This is my last project on OOP on C++ in the 2nd sem. I've received 10 on it.
+So, thats a game, where you need to quess all the words made up by computer from the current entered set of letters or words.
 It fully created on C++, Qt. 
 This game consists of 2 main parts: GUI and query to the hacked API of this site (https://bodyonov.ru/projects/words-game).
 This site, in turn, makes a request to the Russian Wiktionary’s database on this site(https://ru.wiktionary.org) and aggregates the results of found words into XML file, and we, in turn, parse this file and provide this words set to user to play the game. Huh, sounds little bit complicated, but it's not so:)
