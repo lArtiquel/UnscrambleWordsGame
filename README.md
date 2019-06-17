@@ -24,7 +24,7 @@ Game is so easy to play:
 ![](Screenshots/game_screen.png)
 ![](Screenshots/words.png)
 ## And that's all. Easy... So, if during the game you'll have any difficulties, these windows will help you to find out the problem -->
-![](Screenshots/apologize).png)
-![](Screenshots/apologize1).png)
-![](Screenshots/derzhu_v_kurse_1).png)
-![](Screenshots/download_process).png)
+![](Screenshots/apologize.png)
+![](Screenshots/apologize1.png)
+![](Screenshots/derzhu_v_kurse_1.png)
+![](Screenshots/download_process.png)
